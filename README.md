@@ -1,7 +1,7 @@
 
 # Hi 👋, I'm Shifat Amin
 
-## web devloper
+### web devloper
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shifatamin&label=Profile views&color=0e75b6&style=flat" alt="shifatamin" /> </p>
 
@@ -23,7 +23,7 @@
 
 - ⚡ Fun fact **i think i am funny**
 
-- 👨‍💻 All of my projects are available at **[https://github.com/shifatamin](https://github.com/shifatamin)**
+- 👨‍💻 All of my projects are available at **[https://scontent.fspd6-1.fna.fbcdn.net/v/t39.30808-6/474096943_586520677699404_5804687851824616108_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeGMsOXhoEw6kMdFm1x1OW1ZOUNR--iMJnY5Q1H76Iwmdrn2QZO1Y_x4wwxdJv9pClmzkSjnA5H4wvww0mlrH52A&_nc_ohc=WQ-bHgcNoL4Q7kNvwFr1vAT&_nc_oc=Adm9rCTX397ff6wmHi5f1ohoDySEgX3F2vzE_-FTw8LLgsL6AQT2yQpV52AtG_5a11M&_nc_zt=23&_nc_ht=scontent.fspd6-1.fna&_nc_gid=_0XbHPextDA9Y1yA7FXAAg&oh=00_AfjnmC_6JxHcqcm4-VRpIelkMwNjzqFOKSDQMYVo9ZwBSg&oe=6930CAA7](https://scontent.fspd6-1.fna.fbcdn.net/v/t39.30808-6/474096943_586520677699404_5804687851824616108_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeGMsOXhoEw6kMdFm1x1OW1ZOUNR--iMJnY5Q1H76Iwmdrn2QZO1Y_x4wwxdJv9pClmzkSjnA5H4wvww0mlrH52A&_nc_ohc=WQ-bHgcNoL4Q7kNvwFr1vAT&_nc_oc=Adm9rCTX397ff6wmHi5f1ohoDySEgX3F2vzE_-FTw8LLgsL6AQT2yQpV52AtG_5a11M&_nc_zt=23&_nc_ht=scontent.fspd6-1.fna&_nc_gid=_0XbHPextDA9Y1yA7FXAAg&oh=00_AfjnmC_6JxHcqcm4-VRpIelkMwNjzqFOKSDQMYVo9ZwBSg&oe=6930CAA7)**
 
 - 📝 I regularly write articles on **[https://blog.com/shifatamin](https://blog.com/shifatamin)**
 
